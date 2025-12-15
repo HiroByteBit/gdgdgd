@@ -1,0 +1,18 @@
+● DECLARATION
+└── ● STRING_ASSIGNMENT
+    ├── ● ID: a
+    └── ● STR: "HELLO"
+● PRINT STATEMENT
+└── ● ID: a
+
+┌─────────────────────────────────────────────────┐
+│                     LEGEND                      │
+├─────────────────────────────────────────────────┤
+│  • NUM: Number literal                         │
+│  • STR: String literal                         │
+│  • ID:  Variable identifier                    │
+│  • BINOP: Binary operation                     │
+│  • DECL: Variable declaration                  │
+│  • ASSIGN: Assignment statement                │
+│  • PRINT: Print statement                      │
+└─────────────────────────────────────────────────┘
